@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn-outline-dark {
+  background-color: #74787c;
+  color: white;
+}
+h1{
+  font-family: 'Anek Gujarati', sans-serif;
+  font-weight: bold;
+}
+
+li a{
+  text-decoration: none;
+  color:white;
+  margin: 1rem;
+  font-size: smaller;
+}
+
+li a:hover{
+  color:grey;
+}
